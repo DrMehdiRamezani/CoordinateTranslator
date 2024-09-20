@@ -1,0 +1,6 @@
+streamlit
+matplotlib
+numpy
+csv
+python-math
+plotly
